@@ -13,6 +13,7 @@ Assuming you are not changing the executable's name on every build you could be 
 ```
 $ .\main version  (or "main.exe version" for you Windows guys)
 ```
+&nbsp;
 
  So let's start. Create a main.go file and add a global string variable called `version`:
 
@@ -27,7 +28,9 @@ func main() {
     fmt.Println(version)
 }
 ```
-Now let's run it:
+&nbsp;
+
+Now run it:
 ```
 $ go run main.go
 ```
@@ -36,6 +39,8 @@ Nothing. But expected since version was never assigned a value. Try again with `
 ```
 $ go run -ldflags "-X main.version=1.0.2" main.go
 ```
+&nbsp;
+
 Success! It prints out 1.0.2. Using these flags you can update your CI server's build command to use the build number for your version number.
 
 But what about the version argument? Queue a very impressive if statement at the start of our main method that checks if the second argument's value is "version":
@@ -59,12 +64,15 @@ func main() {
 	fmt.Println("do other stuff")
 }
 ```
+&nbsp;
 
-Now build and run it:
+Build and run it:
 
 ```
 $ go build -ldflags "-X main.version=1.0.2" main.go
 $ .\main version
 version 1.0.2
 ```
+&nbsp;
+
 And that's it.
