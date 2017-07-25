@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Versioning your Go application"
-permalink: /versioning-your-go-application/
+permalink: /code/versioning-your-go-application/
 date:   2016-03-15
-tags:   go golang code version
+tags:   code golang
 ---
 Imagine you have a go application running in production that has been subject to a couple of updates. You open the logs but have no idea which version it is. Is this the same one as on the
 live server or the one with all those bug fixes from last week?
