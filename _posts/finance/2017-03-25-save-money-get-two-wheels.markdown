@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Save Money, Get Two Wheels"
-permalink: /finance/how-to-calculate-annualised-growth/
+permalink: /finance/save-money-get-two-wheels/
 date:   2017-03-25
 tags:   finance
 ---
