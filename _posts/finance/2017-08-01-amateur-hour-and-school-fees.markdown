@@ -11,7 +11,7 @@ this is FREEDOM! MWUAHAHAHAHA!!!
 
 ...and then it's not so awesome anymore. Let me tell you a story.
 
-![School of 2004](/static/images/gorilla.jpg)  
+![School of 2004](https://i.imgur.com/X7zUAAs.jpg)  
 *Class photo: 2003*
 
 ##### Humble beginnings
