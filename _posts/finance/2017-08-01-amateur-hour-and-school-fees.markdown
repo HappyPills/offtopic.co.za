@@ -11,6 +11,9 @@ this is FREEDOM! MWUAHAHAHAHA!!!
 
 ...and then it's not so awesome anymore. Let me tell you a story.
 
+![School of 2004](/static/images/gorilla.jpg)  
+*Class photo: 2003*
+
 ##### Humble beginnings
 When I started out FNB just introduced a new product: FNB Share Saver. It's brilliant
 for the new guy who knows nothing about ETFs or unit trusts and comes with the
