@@ -4,6 +4,8 @@ title:  "Amateur Hour and School Fees"
 permalink: /finance/amateur-hour-and-school-fees/
 date:   2017-08-01
 tags:   finance
+categories: finance
+image: https://i.imgur.com/X7zUAAs.jpg
 ---
 Oh, that sweet smell of a new brokerage account, a successful money transfer and
 confidence to boot! The world is mine for the taking, this is gonna be awesome,
@@ -11,7 +13,7 @@ this is FREEDOM! MWUAHAHAHAHA!!!
 
 ...and then it's not so awesome anymore. Let me tell you a story.
 
-![School of 2004](https://i.imgur.com/X7zUAAs.jpg)  
+![School of 2004]({{page.image}})  
 *Class photo: 2003*
 
 ##### Humble beginnings

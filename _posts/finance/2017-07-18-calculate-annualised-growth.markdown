@@ -4,6 +4,7 @@ title:  "How to Calculate Annualised Growth"
 permalink: /finance/how-to-calculate-annualised-growth/
 date:   2017-03-06
 tags:   finance
+categories: finance
 ---
 
 Ever wanted to know how much your investment has grown on average over the years? Or

@@ -4,6 +4,7 @@ title:  "Annualised Growth Calculator"
 permalink: /finance/tools/annualised-growth-calculator/
 date:   2017-03-06
 tags:   finance tools
+categories: finance tools
 ---
 
 Read [this article](/finance/how-to-calculate-annualised-growth/) for information about what this calulator does.

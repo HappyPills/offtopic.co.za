@@ -4,6 +4,7 @@ title:  "Save Money, Get Two Wheels"
 permalink: /finance/save-money-get-two-wheels/
 date:   2017-03-25
 tags:   finance
+categories: finance
 ---
 Let's just get to the point - buy a bike. Whether it is a motorcycle or a bicycle doesn't matter, just buy a bike!
 

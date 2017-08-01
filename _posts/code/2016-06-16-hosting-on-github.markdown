@@ -3,7 +3,8 @@ layout: post
 title:  "Hosting one or more websites on github.io"
 permalink: /code/hosting-one-or-more-websites-on-github.io/
 date:   2016-06-16
-tags:   code jekyll 
+tags:   code jekyll
+categories: code
 ---
 
 Github allows you to host a static website on its servers. The benefit is that because it is a static site it can take advantage of their CDN and it is fast.
