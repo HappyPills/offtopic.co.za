@@ -9,7 +9,7 @@ categories: penned
 I am not the original author of this, but whomever you are: kudos to you. The only thing you missed was to tell them
 is that not being a Stormers' supporter is frowned upon.
 
-###RULES FOR SONS:
+###Rules for sons:
 1. Never shake a man’s hand sitting down.
 2. Don't enter a pool by the stairs.
 3. The man at the Braai is the closest thing to a king.
