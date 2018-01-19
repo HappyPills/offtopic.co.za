@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "A Life Guide For Your Son"
-permalink: /penned/a-life-guide-for-your-son/
-date:   2017-03-25
+title:  "Rules For Your Son"
+permalink: /penned/rules-for-your-son/
+date:   2018-01-19
 tags:   penned life
 categories: penned
 ---
 I am not the original author of this, but whomever you are: kudos to you. The only thing you missed was to tell them
-is that not being a Stormers' supporter is frowned upon.
+is that not being a Stormers' supporter is frowned upon:
 
-###Rules for sons:
 1. Never shake a man’s hand sitting down.
 2. Don't enter a pool by the stairs.
 3. The man at the Braai is the closest thing to a king.
